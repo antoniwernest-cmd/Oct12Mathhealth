@@ -1,0 +1,6 @@
+Number-line interaction update
+
+Six pages updated: Excite Day 4 and Inspire Days 1-5.
+Preset answer arrows are replaced by a blue forward bar and an orange backward line that the learner positions. The backward line becomes available after the learner places the forward bar. No solved jumps are pre-drawn.
+
+Both moves and the resulting landing number must be correct. Bars support mouse/touch dragging and keyboard controls. Start again clears the two moves. Question IDs, numerical answer keys and existing saved work for other questions are preserved.

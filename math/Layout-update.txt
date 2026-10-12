@@ -1,0 +1,11 @@
+Math Mall 1 layout update
+
+20 question layouts previously extended below their available reading area at 1366 x 768. Shared fitting and side-by-side picture/answer layouts are corrected.
+
+All 566 question pages were checked at 1280 x 720, 1366 x 768 and 1440 x 900: no content overflow. Expanded stick, equal-group, pencil-sharing and number-splitting models were checked at laptop and tablet sizes; answer controls remain visible.
+
+Question data, answer keys and saved-progress identifiers are unchanged.
+
+The later duplicate-activity update removed two interactive pages. The current pack has 564 question pages. Remaining pages on the two changed days were rechecked at laptop sizes.
+
+A new Excite Day 1 question adds four counting-by-2 rows on one page, starting at 6, 3, 23 and 33. It has sixteen dropdown answers with quantity pictures. The current interactive pack has 565 pages. The new page was checked at 1280 x 720, 1366 x 768, 1440 x 900 and 768 x 1024.

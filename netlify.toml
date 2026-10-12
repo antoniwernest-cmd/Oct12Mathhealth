@@ -1,0 +1,8 @@
+# Static site: no build step or dependencies required.
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/assets/shared/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

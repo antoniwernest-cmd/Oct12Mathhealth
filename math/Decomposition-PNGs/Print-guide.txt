@@ -1,0 +1,8 @@
+Math Mall 1 - Work Bench E: Split & add
+
+60 blank PNG worksheets: 30 Excite and 30 Inspire.
+Open index.html to browse the questions, or open a PNG directly.
+Print using landscape Letter paper and Fit to page.
+Each image is 1650 x 1275 pixels (150 pixels per inch on Letter landscape).
+
+For a learner work copy, use Print / PNG inside the interactive question. This includes the current splits, coloured blocks and selected answer. Extra sheets are created for more than eight split parts on one side. Printing does not check or change saved responses.

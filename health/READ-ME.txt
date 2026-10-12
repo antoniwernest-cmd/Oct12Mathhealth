@@ -1,0 +1,28 @@
+Health Centre 1
+
+Open index.html. Choose Excite or Inspire, then a day.
+The entry page has compact day buttons. Each day link starts at question 1;
+saved answers and Finished ticks are kept. Explicit question links still work.
+Each of the five days has 10 Health questions.
+No login or typed student answers. Use Next question and Next step.
+Tap Check my answers and tick Finished. Answers save separately by grade and day.
+Save my Health day downloads just that day’s 10 responses.
+New person? Start fresh clears only this project after confirmation.
+Teacher-Resources.html links this project’s PDF and Excel files.
+The student PDF has Excite on pages 1–56 and Inspire on pages 57–112.
+Day covers: Excite 2, 13, 24, 35, 46; Inspire 58, 69, 80, 91, 102.
+Each HTML includes its pictures, fonts and scripts and works offline.
+Keep this project folder together. No ZIP is needed.
+
+Every Health question has an Expectation button with a trillium above the label.
+Press it for the related official Ontario Grade 2 or Grade 3 expectation wording.
+Use See all Grade 2/3 Health expectations for the complete grade reference list.
+The entry page also has an Expectation button for each grade.
+Each grade includes all 13 specific Healthy Living expectations, 3 overall
+Healthy Living expectations, and the overall plus 6 specific social-emotional
+learning expectations. Social-emotional examples are omitted in the popup;
+the linked source page contains the full examples.
+Reference-only expectations are identified when no current activity is linked.
+Related activities may address only part of an expectation.
+Ontario-Health-Physical-Education-2019.pdf is the supplied official source.
+PDF links show both printed curriculum page and PDF page numbers.

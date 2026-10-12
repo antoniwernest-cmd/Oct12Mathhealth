@@ -1,0 +1,4 @@
+Duplicate activity update
+
+The fruit/vegetable bag-or-no-bag interactive sort appeared on Inspire Days 1, 3 and 5 with only a shuffled card order.
+It now appears on Day 1 only. Two repeated interactive pages have been removed. Inspire Days 3 and 5 each contain ten pages, numbered 1-10. The other task IDs, answer keys and storage identifiers are preserved. Landing links point to the new first question.

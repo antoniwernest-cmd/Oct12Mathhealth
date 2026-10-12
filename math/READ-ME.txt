@@ -1,0 +1,22 @@
+MATH MALL 1
+
+Open index.html or START-MATH-MALL.html.
+Click your school-supply student ID to enter. All 20 school supplies are available.
+Use the same supply each time to return to that student's saved answers and Finished ticks.
+Choose Excite (Grade 2) or Inspire (Grade 3), then a day or Work Bench A-G.
+One Math question appears at a time. Use Previous question and Next question.
+
+Answers save in this browser separately for each student ID, grade and activity.
+Answer button order is randomized once and stays steady while the student works.
+Allow Check answer is one shared setting for the entire Math Mall project.
+Save responses includes the school-supply student ID in the downloaded CSV.
+Reset the whole project clears all students, all daily pages and all Work Benches after confirmation.
+Save any responses you want to keep before using reset.
+
+Keep the Math Mall 1 folder together, including assets/supplies.
+Teacher-Resources.html contains the teacher resources. Parent PDF links are on the entry page.
+
+Day 5 now includes two C1.4 pattern-creation questions per level: growing and shrinking patterns. Excite Day 5 has 17 questions; Inspire Day 5 has 16.
+
+WORK BENCHES H AND I
+Work Bench H: 30 number-line addition/subtraction activities per grade. Excite B2.4 within 100; Inspire B2.5 within 1000. Work Bench I: 30 number-line rounding activities per grade. Inspire B1.3 uses nearest tens and hundreds. Excite nearest-ten rounding is an explicitly labelled Grade 2 extension, practising B1.1/B1.2 representation and comparison through 200. Every question includes its Ontario expectations popup. Both new benches use school-supply student IDs and whole-project reset. Open the HTML files or use the entry page. Browser Print prints the new activities; earlier PDFs and Excel exports keep their existing content.

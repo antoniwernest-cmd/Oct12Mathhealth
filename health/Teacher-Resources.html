@@ -1,0 +1,20 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Health Centre 1 teacher resources</title><style>@font-face{font-family:"Century Gothic";font-style:normal;font-weight:400;font-display:swap;src:url(../assets/shared/3a9cbb5d75b2a2b0d22dc945.ttf) format("truetype")}
+@font-face{font-family:"Century Gothic";font-style:normal;font-weight:700;font-display:swap;src:url(../assets/shared/90cb613b492874a560c0ff18.ttf) format("truetype")}
+@font-face{font-family:"Century Gothic";font-style:italic;font-weight:400;font-display:swap;src:url(../assets/shared/6cf57be6f9d0bd60bd5dc6ee.ttf) format("truetype")}
+@font-face{font-family:"Century Gothic";font-style:italic;font-weight:700;font-display:swap;src:url(../assets/shared/2dc5949d57d2e172601fb6f5.ttf) format("truetype")}
+body{margin:0;font:23px/1.5 "Century Gothic",sans-serif;color:#173a42;background:#f4f6f2}main{padding:20px}h1{font-size:42px;line-height:1.2}h2{font-size:30px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}.card{padding:22px;background:white;border:2px solid #cbded8;border-radius:20px}.start{display:block;padding:15px;background:var(--accent,#126a63);color:white;font-weight:bold;text-align:center;border-radius:14px;text-decoration:none;margin:12px 0;min-height:52px;box-sizing:border-box}a{color:var(--accent,#126a63)}.note{padding:18px;background:#e9f7ef;border-radius:18px;margin:20px 0}button{font:inherit;padding:12px;border:2px solid #173a42;background:white;border-radius:12px;min-height:52px;cursor:pointer}[hidden]{display:none!important}.reset-confirm{border:2px solid #9c651e;padding:18px;background:#fff3db;border-radius:14px;margin:14px 0}.learner-reset{margin:18px 0}.learner-reset>button{background:#173a42;color:white;font-weight:bold}.reset-confirm button{margin:8px}@media(max-width:680px){.grid{grid-template-columns:1fr}main{padding:12px}h1{font-size:34px}body{font-size:21px}}</style></head><body style="--accent:#9a3868"><main><a href="index.html">Back to Health Centre 1</a><h1>Health Centre 1 · Teacher resources</h1><p>Five independent days for Excite Grade 2 and Inspire Grade 3. Each day has 10 Health questions, numbered 1–10, and its own assessment.</p><ul><li><a href="Health-Centre-1-Assessment.xlsx">Health Excel assessment</a></li><li><a href="Health-Centre-1-Teacher-Assessment.pdf">Health assessment PDF, answer guide and expectations</a></li><li><a href="Health-Centre-1-Student-Booklets.pdf">Health student PDF · both grades</a></li></ul><p>Completion and automatic checks do not assign teacher achievement levels. Record support and evidence for each day.</p><p>Food choices, oral health, personal safety, feelings, respect and online safety appear in the Health activities. Inspire also includes concussion awareness.</p></main><script>(()=>{
+  const open=document.getElementById('newLearner'),panel=document.getElementById('newLearnerConfirm'),status=document.getElementById('newLearnerStatus');
+  if(!open)return;
+  open.addEventListener('click',()=>{panel.hidden=false;open.setAttribute('aria-expanded','true');document.getElementById('cancelLearner').focus()});
+  document.getElementById('cancelLearner').addEventListener('click',()=>{panel.hidden=true;open.setAttribute('aria-expanded','false');open.focus()});
+  document.getElementById('clearPack').addEventListener('click',()=>{
+    try{
+      for(const grade of [2,3])for(let day=1;day<=5;day++)localStorage.setItem('health-centre-1-'+grade+'-day-'+day+'-v1',JSON.stringify({questions:{}}));
+      localStorage.setItem('health-centre-1-reset-at',String(Date.now()));
+      sessionStorage.setItem('health-centre-1-cleared','yes');
+      history.scrollRestoration='manual';window.scrollTo(0,0);location.reload();
+    }catch(error){status.textContent='This browser could not clear saved work. Please try opening the pack in your usual browser.'}
+  });
+  try{if(sessionStorage.getItem('health-centre-1-cleared')){sessionStorage.removeItem('health-centre-1-cleared');status.textContent='All pages are clear! Ready to start Health Centre 1.'}}catch(error){}
+})();
+</script></body></html>
